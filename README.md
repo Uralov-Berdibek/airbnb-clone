@@ -38,7 +38,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Suleyman1406/airbnb-clone.git
+git clone https://github.com/berdibek-2002/airbnb-clone.git
 ```
 
 ### Install packages
